@@ -1,0 +1,68 @@
+.ediya {
+  background-color: #2a47bf;
+  color: white;
+  width: 440px;
+  border-radius: 5px;
+  font-size: 18px;
+  font-weight: 800;
+  padding-top: 29px;
+  padding-bottom: 29px;
+  text-align: center;
+}
+
+.kakao {
+  background-color: #fee500;
+  color: #391b1b;
+  width: 440px;
+  border-radius: 5px;
+  font-size: 18px;
+  font-weight: 800;
+  padding-top: 29px;
+  padding-bottom: 29px;
+  text-align: center;
+}
+.naver {
+  background-color: #03c75a;
+  color: white;
+  width: 440px;
+  border-radius: 5px;
+  font-size: 18px;
+  font-weight: 800;
+  padding-top: 29px;
+  padding-bottom: 29px;
+  text-align: center;
+}
+.starbucks {
+  background-color: #006633;
+  color: white;
+  width: 440px;
+  border-radius: 5px;
+  font-size: 18px;
+  font-weight: 800;
+  padding-top: 29px;
+  padding-bottom: 29px;
+  text-align: center;
+}
+.button1 {
+  background-color: #006633;
+  color: white;
+  width: 100px;
+  border-radius: 5px;
+  font-size: 18px;
+  font-weight: 800;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+.button2 {
+  background-color: #6faf8f;
+  color: white;
+  width: 100px;
+  border-radius: 5px;
+  font-size: 18px;
+  font-weight: 800;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+}

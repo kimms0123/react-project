@@ -1,0 +1,13 @@
+/* .별명 = 같은 태그여도 사용 가능 */
+.lunch {
+  color: #9c88ff;
+  font-size: 30px;
+}
+.dinner {
+  color: #273c75;
+  font-size: 20px;
+}
+.dessert {
+  color: #e1b12c;
+  font-size: 10px;
+}
