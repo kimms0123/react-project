@@ -1,0 +1,26 @@
+.box{
+    width: 300px;
+    height: 300px;
+    border: 3px solid red;
+}
+.red{
+    background-color: red;
+    /* px: 절대값 */
+    /* %: 상대값: 자기 부모에 대한 상대값 */
+    height: 50%; 
+    /* height가 50%이면 150px의 높이를 가짐 */
+}
+.blue{
+    background-color: blue;
+    height: 100%;
+
+}
+.green{
+    background-color: green;
+    height: 100%;
+
+}
+.yellow{
+    background-color: yellow;
+    height: 100%;
+}

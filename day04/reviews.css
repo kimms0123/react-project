@@ -1,0 +1,37 @@
+.sale{
+    background-color: #f95e63;
+    color: white;
+    border-radius: 20px;
+    padding: 3px 8px 3px 8px;
+    /* padding: top right bottom left */
+    width: fit-content;
+}
+.todaygive{
+    background-color: pink;
+    color: white;
+    border-radius: 20px;
+    padding: 3px 8px 3px 8px;
+    width: fit-content;
+}
+.dreamfactory{
+    background-color: darkblue;
+    color: white;
+    font-weight: 800;
+    padding: 10px 0px 10px 0px;
+    width: 250px;
+    text-align: center;
+    /* 테두리 꾸미기 */
+    /* 두께 선스타일 선색 */
+    border: 1px solid red;
+}
+.dreamcenter{
+    background-color: darkblue;
+    color: white;
+    font-weight: 800;
+    padding: 10px 0px 10px 0px;
+    width: 250px;
+    text-align: center;
+    /* 테두리 꾸미기 */
+    /* 두께 선스타일 선색 */
+    border: 1px solid red;
+}
