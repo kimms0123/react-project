@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  flex-direction: row;
+}
+.pill {
+  width: fit-content;
+  padding: 5px 10px 5px 10px;
+  border: 1px solid #c7c7c7;
+  border-radius: 100px;
+  font-weight: 800;
+  margin-right: 5px;
+}
+
+.pillall {
+  width: fit-content;
+  padding: 5px 10px 5px 10px;
+  border-radius: 100px;
+  font-weight: 800;
+  margin-right: 5px;
+  background-color: blue;
+  color: white;
+}

@@ -1,0 +1,33 @@
+.box {
+  width: 500px;
+  height: 500px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row;
+
+  /* 주축(가로) */
+  /* 
+  자식들을 주축으로 맨앞(start)/ 가운데(center)/ 맨뒤(end)/ 
+  균일한 간격(space-between) 위치
+  */
+  /* 기본적으로 start에 위치 */
+  justify-content: space-between;
+
+  /* 교차축(세로) */
+  align-items: center;
+}
+.black {
+  width: 100px;
+  height: 100px;
+  background-color: black;
+}
+.gray {
+  width: 100px;
+  height: 100px;
+  background-color: gray;
+}
+.darkgray {
+  width: 100px;
+  height: 100px;
+  background-color: darkgray;
+}
