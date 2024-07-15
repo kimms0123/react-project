@@ -1,0 +1,39 @@
+.icons{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.icon{
+    width: 100px;
+    height: 100px;
+    border-radius: 9999px;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+.icon > i{
+    color: white;
+    font-size: 30px;
+}
+.sky{
+    background-color: skyblue;
+    transition: all 0.5s;
+
+}
+.black{
+    background-color: black;
+}
+
+/* hover: 둥둥뜨다 */
+/* 기능: 마우스를 올리면 바뀌어요 */
+
+.sky:hover{
+    background-color: red;
+}
+.black:hover{
+    background-color: yellow;
+}
