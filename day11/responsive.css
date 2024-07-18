@@ -1,0 +1,19 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: pink;
+}
+
+/* 화면 넓이가 1024px 작으면 아래로 바꿔주세요 */
+@media screen and (max-width: 1024px) {
+  body {
+    background-color: skyblue;
+  }
+}
+
+/* 화면 넓이가 768px 작으면 아래로 바꿔주세요 */
+@media screen and (max-width: 768px) {
+  body {
+    background-color: lemonchiffon;
+  }
+}
