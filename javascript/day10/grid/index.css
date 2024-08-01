@@ -1,0 +1,12 @@
+.container {
+    display: grid;
+    /* fr(fraction): 파편 1개당 균등하게 */
+    grid-template-columns: repeat(5, 1fr);
+    gap: 10px;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: skyblue;
+}
